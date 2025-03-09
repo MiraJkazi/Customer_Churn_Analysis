@@ -12,7 +12,7 @@ This project is focused on analyzing customer churn in a bank using Power BI.
 ## 📂 Files Included  
 - **Customer_Churn_Report.pdf:** Full detailed report with insights.  
 - **Customer_Churn.pbix:** Power BI file with the dashboard.  
-- **Data.csv:** Raw data used for the project.  
+- **Bank Customer Churn Prediction.csv:** Raw data used for the project.  
 
 ## 📊 Key Insights  
 - Customers above **61 years** have the highest churn rate.  
