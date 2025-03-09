@@ -28,4 +28,4 @@ This project is focused on analyzing customer churn in a bank using Power BI.
 
 ## 🔗 Connect With Me  
 If you have any questions or feedback, feel free to connect with me on LinkedIn:  
-linkedin.com/in/mirajkazi  
+[linkedin.com/in/mirajkazi ](url) 
