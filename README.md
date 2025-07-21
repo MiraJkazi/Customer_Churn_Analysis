@@ -1,5 +1,7 @@
 # Customer Churn Analysis - Bank Customers  
 
+![Customer_Churn_Analysis](image/Customer_Churn.png)
+
 ## 📊 Project Overview  
 This project is focused on analyzing customer churn in a bank using Power BI.  
 
